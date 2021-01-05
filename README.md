@@ -1,6 +1,6 @@
 # COMP6588 - Information-Retrieval - LC01
-Semester 5 Information Retrieval Project: Steam Game Review Searching with Sentiment Analysis
-Using:
-• Word2Vec
-• Back Propagation Neural Network
-• TF-IDF
+Semester 5 Information Retrieval Project: Steam Game Review Searching with Sentiment Analysis.<br>
+Using:<br>
+• Word2Vec<br>
+• Back Propagation Neural Network<br>
+• TF-IDF<br>
